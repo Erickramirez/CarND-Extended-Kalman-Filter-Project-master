@@ -28,4 +28,4 @@ Self-Driving Car Engineer Nanodegree Program
 
 ### Windows Alternative
 1. Clone this repo.
-2. Use [jetbrains CLion] (https://www.jetbrains.com/clion/)
+2. Use [jetbrains CLion](https://www.jetbrains.com/clion/)
